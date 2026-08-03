@@ -1,16 +1,85 @@
-# React + Vite
+# 📝 React User Information Form
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple React application built with **Vite** that allows users to enter their **Name, Email, Phone Number, and City**. The entered information is displayed instantly using React's **useState** hook.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 📂 Repository
 
-## React Compiler
+```bash
+git clone https://github.com/Lakshbethariya/react--project.git
+```
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## 🚀 Technologies Used
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- ⚛️ React
+- ⚡ Vite
+- 🟨 JavaScript
+- 🌐 HTML
+- 🎨 CSS
+
+---
+
+## 🛠️ Getting Started
+
+### 1️⃣ Clone the Repository
+
+```bash
+git clone https://github.com/Lakshbethariya/react--project.git
+```
+
+### 2️⃣ Navigate to the Project
+
+```bash
+cd react--project
+```
+
+### 3️⃣ Install Dependencies
+
+```bash
+npm install
+```
+
+### 4️⃣ Run the Development Server
+
+```bash
+npm run dev
+```
+
+Open the URL displayed in your terminal (usually **http://localhost:5173**) in your browser.
+
+---
+
+## ✨ Features
+
+- 👤 User Information Form
+- 📧 Email Input
+- 📱 Phone Number Input
+- 🏙️ City Input
+- ⚡ Real-time Data Display
+- 🔄 State Management using `useState`
+
+---
+
+## 📁 Project Structure
+
+```
+react--project/
+├── public/
+├── src/
+│   ├── App.jsx
+│   ├── main.jsx
+│   └── assets/
+├── package.json
+└── README.md
+```
+
+---
+
+## 👨‍💻 Author
+
+**Laksh Bethariya**
+
+Made with ❤️ using React & Vite.
