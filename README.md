@@ -4,11 +4,7 @@ A simple React application built with **Vite** that allows users to enter their 
 
 ---
 
-## 📂 Repository
 
-```bash
-git clone https://github.com/Lakshbethariya/react--project.git
-```
 
 ---
 
@@ -82,4 +78,3 @@ react--project/
 
 **Laksh Bethariya**
 
-Made with ❤️ using React & Vite.
