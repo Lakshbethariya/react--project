@@ -5,6 +5,7 @@ A simple React application built with **Vite** that allows users to enter their 
 ---
 
 
+
 ---
 
 ## 🚀 Technologies Used
@@ -77,4 +78,3 @@ react--project/
 
 **Laksh Bethariya**
 
-Made with ❤️ using React & Vite.

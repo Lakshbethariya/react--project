@@ -19,9 +19,7 @@ function App() {
     <div style={{ padding: "20px", fontFamily: "Arial" }}>
       <h1>User Information Form</h1>
 
-      <label>Name:</label>
-      <br />
-      <input
+
         type="text"
         name="name"
         placeholder="Enter your name"
